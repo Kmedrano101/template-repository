@@ -22,6 +22,16 @@ Examples of how to use the project. Provide basic usage commands or code example
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
+
+## Project Resources
+
+- [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+- **Issue Templates:**
+  - [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md)
+  - [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md)
+
+---
+
 ## License
 
 Distributed under the [MIT License](LICENSE).
