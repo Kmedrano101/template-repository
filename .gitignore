@@ -1,0 +1,17 @@
+# Byte-compiled / dependency files
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
