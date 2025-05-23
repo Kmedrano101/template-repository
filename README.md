@@ -1,5 +1,38 @@
-## Best Practices
+# Project Name
 
+A brief description of what this project does and who it's for.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+Describe how to install dependencies, using your stack’s tools (e.g., `pip install -r requirements.txt` or `npm install`).
+
+## Usage
+
+Examples of how to use the project. Provide basic usage commands or code examples.
+
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+
+Distributed under the [MIT License](LICENSE).
+
+## Contact
+
+Your Name — [your.email@example.com](mailto:your.email@example.com)
+
+## Best Practices
+> **Note:**  
+> This "Best Practices" section is intended as internal team guidance. There is no need to include this section in your public `README.md` on GitHub.
 ### 1. Naming Conventions
 
 - **Project Name:**  
@@ -115,35 +148,3 @@
 | Testing         | Add/maintain automated tests                |
 | Task Management | Use GitHub Projects Kanban board for task tracking    |
 ---
-
-# Project Name
-
-A brief description of what this project does and who it's for.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Installation
-
-Describe how to install dependencies, using your stack’s tools (e.g., `pip install -r requirements.txt` or `npm install`).
-
-## Usage
-
-Examples of how to use the project. Provide basic usage commands or code examples.
-
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-
-Distributed under the [MIT License](LICENSE).
-
-## Contact
-
-Your Name — [your.email@example.com](mailto:your.email@example.com)
