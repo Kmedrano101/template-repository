@@ -80,12 +80,13 @@ Your Name — [your.email@example.com](mailto:your.email@example.com)
 - **Format:**  
 
 **Types:**
-- `feat`: New feature
-- `fix`: Bug fix
-- `docs`: Documentation changes
-- `refactor`: Code refactoring
-- `test`: Adding or updating tests
-- `chore`: Maintenance tasks
+- `feat:`: For new features (user-visible functionality)
+- `fix:`: For bug fixes (resolving an issue/defect)
+- `docs:`: For documentation changes only (README, comments, guides)
+- `refactor:`: Code change that neither fixes a bug nor adds a feature
+- `style:`: Formatting, missing semi-colons, white space, etc (no code change)
+- `test:`: Adding or updating tests
+- `chore:`: Miscellaneous tasks (maintainance, package updates, tooling, etc.)
 
 **Examples:**
 - `feat: add user login page`
