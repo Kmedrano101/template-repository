@@ -30,6 +30,11 @@ Ejemplos de cómo utilizar el proyecto. Proporciona comandos básicos de uso o e
 - **Issue Templates:**
   - [Bug Report](../.github/ISSUE_TEMPLATE/bug_report.md)
   - [Feature Request](../.github/ISSUE_TEMPLATE/feature_request.md)
+- **Documentación:**
+  - [Descripción General del Proyecto](overview.md)
+  - [Arquitectura](architecture.md)
+  - [Referencia de API](api-reference.md)
+  - [Guía de Despliegue](deployment.md)
 
 ---
 
@@ -47,13 +52,20 @@ Your Name — [your.email@example.com](mailto:your.email@example.com)
 
 ### 1. Convenciones de Nomenclatura
 
-- **Nombre de proyecto:**  
-  Usa solo minúsculas, con palabras separadas por guiones para mejorar la legibilidad.  
-  Formato: `nombreproyecto-subnombre`  
-  **Ejemplos:**  
+- **Nombre de proyecto:**
+  Usa solo minúsculas, con palabras separadas por guiones para mejorar la legibilidad.
+  Formato: `nombreproyecto-subnombre`
+  **Ejemplos:**
   - `data-collector`
   - `procesador-images`
   - `drone-monitoring-tool`
+
+  Para proyectos que pertenecen a un sistema más grande, usa el acrónimo del proyecto seguido del subnombre y la función específica:
+  Formato: `acronimo_proyecto-subnombre-nombre_funcion_especifica`
+  **Ejemplos:**
+  - `ims-backend-auth`
+  - `crm-api-notifications`
+  - `dmt-frontend-dashboard`
 
 - **Carpetas y Archivos:**  
   - Usa solo minúsculas y guiones o guiones bajos.  

@@ -31,6 +31,11 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 - **Issue Templates:**
   - [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md)
   - [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md)
+- **Documentation:**
+  - [Project Overview](docs/overview.md)
+  - [Architecture](docs/architecture.md)
+  - [API Reference](docs/api-reference.md)
+  - [Deployment Guide](docs/deployment.md)
 
 ---
 
@@ -47,13 +52,20 @@ Your Name — [your.email@example.com](mailto:your.email@example.com)
 > This "Best Practices" section is intended as internal team guidance. There is no need to include this section in your public `README.md` on GitHub.
 ### 1. Naming Conventions
 
-- **Project Name:**  
-  Use lowercase letters, with words separated by hyphens for readability.  
-  Format: `projectname-subname`  
-  **Examples:**  
+- **Project Name:**
+  Use lowercase letters, with words separated by hyphens for readability.
+  Format: `projectname-subname`
+  **Examples:**
   - `data-collector`
   - `image-processor`
   - `drone-monitoring-tool`
+
+  For projects that belong to a larger system, use the project acronym followed by the subname and specific function:
+  Format: `project_acronym-subname-specific_function_name`
+  **Examples:**
+  - `ims-backend-auth`
+  - `crm-api-notifications`
+  - `dmt-frontend-dashboard`
 
 - **Folders & Files:**  
   - Use lowercase letters and hyphens or underscores.  
