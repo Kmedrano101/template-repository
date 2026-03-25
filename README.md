@@ -9,6 +9,7 @@ A brief description of what this project does and who it's for.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Project Resources](#project-resources)
 - [License](#license)
 - [Contact](#contact)
 
