@@ -36,6 +36,7 @@ Ejemplos de cómo utilizar el proyecto. Proporciona comandos básicos de uso o e
   - [Referencia de API](api-reference.md)
   - [Guía de Despliegue](deployment.md)
   - [Buenas Prácticas](best-practices.es.md)
+  - [Solución de Problemas](troubleshooting.md)
 
 ---
 

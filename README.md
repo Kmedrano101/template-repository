@@ -37,6 +37,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
   - [API Reference](docs/api-reference.md)
   - [Deployment Guide](docs/deployment.md)
   - [Best Practices](docs/best-practices.md)
+  - [Troubleshooting](docs/troubleshooting.md)
 
 ---
 
